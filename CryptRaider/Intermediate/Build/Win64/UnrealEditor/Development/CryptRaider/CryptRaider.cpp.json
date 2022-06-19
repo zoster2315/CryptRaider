@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\unrealengine\\projects\\cryptraider\\cryptraider\\source\\cryptraider\\cryptraider.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unrealengine\\projects\\cryptraider\\cryptraider\\intermediate\\build\\win64\\cryptraidereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\unrealengine\\projects\\cryptraider\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\development\\cryptraider\\definitions.cryptraider.h",
+            "e:\\unrealengine\\projects\\cryptraider\\cryptraider\\source\\cryptraider\\cryptraider.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
