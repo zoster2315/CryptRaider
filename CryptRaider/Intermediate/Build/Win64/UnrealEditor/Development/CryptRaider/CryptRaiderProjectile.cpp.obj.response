@@ -271,12 +271,12 @@ E:\UnrealEngine\Projects\CryptRaider\CryptRaider\Source\CryptRaider\CryptRaiderP
 /I ThirdParty\PhysX3\PhysX_3.4\Include\common
 /I ThirdParty\PhysX3\PhysX_3.4\Include\extensions
 /I ThirdParty\PhysX3\PhysX_3.4\Include\geometry
-/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE"
+/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
 /FI"E:\UnrealEngine\Projects\CryptRaider\CryptRaider\Intermediate\Build\Win64\CryptRaiderEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
 /FI"E:\UnrealEngine\Projects\CryptRaider\CryptRaider\Intermediate\Build\Win64\UnrealEditor\Development\CryptRaider\Definitions.CryptRaider.h"
 /Yu"E:\UnrealEngine\Projects\CryptRaider\CryptRaider\Intermediate\Build\Win64\CryptRaiderEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"

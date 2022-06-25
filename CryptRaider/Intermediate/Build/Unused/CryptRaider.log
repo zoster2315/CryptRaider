@@ -1,0 +1,35 @@
+﻿  Cleaning CryptRaiderEditor and UnrealHeaderTool binaries...
+  Using bundled DotNet SDK
+  Log file: C:\Users\zoste\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (E:\UnrealEngine\Projects\CryptRaider).
+  Creating makefile for CryptRaiderEditor (no existing makefile)
+  Parsing headers for CryptRaiderEditor
+    Running UnrealHeaderTool "E:\UnrealEngine\Projects\CryptRaider\CryptRaider\CryptRaider.uproject" "E:\UnrealEngine\Projects\CryptRaider\CryptRaider\Intermediate\Build\Win64\CryptRaiderEditor\Development\CryptRaiderEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\zoste\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for CryptRaiderEditor in 2,2173605 seconds
+  Building CryptRaiderEditor...
+  Using Visual Studio 2022 14.32.31332 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+    Executing up to 6 processes, one per physical core
+    Requested 1,5 GB free memory per action, 6,05 GB available: limiting max parallel actions to 4
+  Building 17 actions with 4 processes...
+  [1/17] Resource Default.rc2
+  [2/17] Compile SharedPCH.Engine.ShadowErrors.cpp
+  [3/17] Compile CryptRaiderCharacter.gen.cpp
+  [4/17] Compile CryptRaiderProjectile.cpp
+  [5/17] Compile CryptRaiderGameMode.cpp
+  [6/17] Compile TP_PickUpComponent.cpp
+  [7/17] Compile CryptRaider.init.gen.cpp
+  [8/17] Compile CryptRaider.cpp
+  [9/17] Compile TP_PickUpComponent.gen.cpp
+  [10/17] Compile CryptRaiderProjectile.gen.cpp
+  [11/17] Compile CryptRaiderGameMode.gen.cpp
+  [12/17] Compile TP_WeaponComponent.gen.cpp
+  [13/17] Compile TP_WeaponComponent.cpp
+  [14/17] Compile CryptRaiderCharacter.cpp
+  [15/17] Link UnrealEditor-CryptRaider.lib
+     Создается библиотека E:\UnrealEngine\Projects\CryptRaider\CryptRaider\Intermediate\Build\Win64\UnrealEditor\Development\CryptRaider\UnrealEditor-CryptRaider.lib и объект E:\UnrealEngine\Projects\CryptRaider\CryptRaider\Intermediate\Build\Win64\UnrealEditor\Development\CryptRaider\UnrealEditor-CryptRaider.exp
+  [16/17] Link UnrealEditor-CryptRaider.dll
+     Создается библиотека E:\UnrealEngine\Projects\CryptRaider\CryptRaider\Intermediate\Build\Win64\UnrealEditor\Development\CryptRaider\UnrealEditor-CryptRaider.suppressed.lib и объект E:\UnrealEngine\Projects\CryptRaider\CryptRaider\Intermediate\Build\Win64\UnrealEditor\Development\CryptRaider\UnrealEditor-CryptRaider.suppressed.exp
+  [17/17] WriteMetadata CryptRaiderEditor.target
+  Total time in Parallel executor: 39,64 seconds
+  Total execution time: 44,55 seconds
