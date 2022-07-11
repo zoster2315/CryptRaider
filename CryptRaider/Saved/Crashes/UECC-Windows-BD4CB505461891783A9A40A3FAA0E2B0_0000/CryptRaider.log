@@ -1,0 +1,1539 @@
+﻿Log file open, 07/03/22 21:06:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=5024)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CryptRaider
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20280985"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.2-20280985+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" E:/UnrealEngine/Projects/CryptRaider/CryptRaider/CryptRaider.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) [10.0.22000.778] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 5 3600 6-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="7b12e1654e885391ddcf5b9b8ae6506f"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.383215
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +4:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-BD4CB505461891783A9A40A3FAA0E2B0
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20280985
+LogInit: Engine Version: 5.0.2-20280985+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) [10.0.22000.778] (), CPU: AMD Ryzen 5 3600 6-Core Processor              , GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): May 20 2022 15:42:17
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: E:/UnrealEngine/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.07.03-17.06.35:778][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.07.03-17.06.35:778][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.07.03-17.06.35:778][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.07.03-17.06.35:779][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.07.03-17.06.35:779][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.07.03-17.06.35:779][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.07.03-17.06.35:781][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.07.03-17.06.35:781][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.07.03-17.06.35:781][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.07.03-17.06.35:781][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.07.03-17.06.35:781][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.07.03-17.06.35:781][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.07.03-17.06.35:781][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.07.03-17.06.35:781][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.07.03-17.06.35:781][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.07.03-17.06.35:781][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.07.03-17.06.35:781][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.07.03-17.06.35:820][  0]LogD3D12RHI: Aftermath initialized
+[2022.07.03-17.06.35:820][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.07.03-17.06.36:000][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1070 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.07.03-17.06.36:000][  0]LogD3D12RHI: Adapter has 8088MB of dedicated video memory, 0MB of dedicated system memory, and 8147MB of shared system memory, 2 output[s]
+[2022.07.03-17.06.36:016][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.07.03-17.06.36:016][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8147MB of shared system memory, 0 output[s]
+[2022.07.03-17.06.36:016][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.07.03-17.06.36:016][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.07.03-17.06.36:016][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.07.03-17.06.36:016][  0]LogHAL: Display: Platform has ~ 16 GB [17086902272 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.07.03-17.06.36:016][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.07.03-17.06.36:016][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.07.03-17.06.36:016][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.07.03-17.06.36:017][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.07.03-17.06.36:017][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/UnrealEngine/Projects/CryptRaider/CryptRaider/Saved/Config/WindowsEditor/Editor.ini]
+[2022.07.03-17.06.36:017][  0]LogInit: Computer: ZOSTER
+[2022.07.03-17.06.36:017][  0]LogInit: User: zoste
+[2022.07.03-17.06.36:017][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.07.03-17.06.36:017][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.07.03-17.06.36:017][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.07.03-17.06.36:017][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.07.03-17.06.36:017][  0]LogMemory: Process Physical Memory: 270.75 MB used, 280.21 MB peak
+[2022.07.03-17.06.36:017][  0]LogMemory: Process Virtual Memory: 233.63 MB used, 233.63 MB peak
+[2022.07.03-17.06.36:017][  0]LogMemory: Physical Memory: 8706.03 MB used,  7589.31 MB free, 16295.34 MB total
+[2022.07.03-17.06.36:017][  0]LogMemory: Virtual Memory: 13214.14 MB used,  7177.20 MB free, 20391.34 MB total
+[2022.07.03-17.06.36:017][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.07.03-17.06.36:024][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.07.03-17.06.36:040][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.07.03-17.06.36:041][  0]LogInit: Using OS detected language (ru-RU).
+[2022.07.03-17.06.36:041][  0]LogInit: Using OS detected locale (ru-RU).
+[2022.07.03-17.06.36:043][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so 'ru' will be used for the language.
+[2022.07.03-17.06.36:043][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2022.07.03-17.06.36:044][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2022.07.03-17.06.36:044][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2022.07.03-17.06.36:044][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2022.07.03-17.06.36:044][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2022.07.03-17.06.36:044][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2022.07.03-17.06.36:044][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2022.07.03-17.06.36:044][  0]LogInit: Setting process to per monitor DPI aware
+[2022.07.03-17.06.36:053][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.07.03-17.06.36:053][  0]LogWindowsTextInputMethodSystem:   - Русский (Россия) - (Keyboard).
+[2022.07.03-17.06.36:054][  0]LogWindowsTextInputMethodSystem:   - Английский (США) - (Keyboard).
+[2022.07.03-17.06.36:054][  0]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2022.07.03-17.06.36:070][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.07.03-17.06.36:070][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.07.03-17.06.36:177][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.07.03-17.06.36:180][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.07.03-17.06.36:180][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.07.03-17.06.36:241][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.07.03-17.06.36:241][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.07.03-17.06.36:241][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.07.03-17.06.36:241][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.07.03-17.06.36:241][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.07.03-17.06.36:241][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.07.03-17.06.36:241][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.07.03-17.06.36:241][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.07.03-17.06.36:241][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.07.03-17.06.36:241][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.07.03-17.06.36:241][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.07.03-17.06.36:241][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.07.03-17.06.36:241][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.07.03-17.06.36:241][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.07.03-17.06.36:305][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.07.03-17.06.36:311][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.07.03-17.06.36:330][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.07.03-17.06.36:355][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.07.03-17.06.36:355][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.07.03-17.06.36:374][  0]LogD3D12RHI: Warning: Ray tracing is disabled for NVIDIA cards with the Pascal architecture.
+[2022.07.03-17.06.36:374][  0]LogD3D12RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2022.07.03-17.06.36:374][  0]LogWindows: Attached monitors:
+[2022.07.03-17.06.36:374][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1032), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.07.03-17.06.36:374][  0]LogWindows:     resolution: 1920x1080, work area: (1920, 0) -> (3840, 1032), device: '\\.\DISPLAY2'
+[2022.07.03-17.06.36:374][  0]LogWindows: Found 2 attached monitors.
+[2022.07.03-17.06.36:374][  0]LogWindows: EnumDisplayDevices:
+[2022.07.03-17.06.36:375][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.07.03-17.06.36:375][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1), name: '\\.\DISPLAY2'
+[2022.07.03-17.06.36:375][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.07.03-17.06.36:375][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.07.03-17.06.36:375][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.07.03-17.06.36:375][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2022.07.03-17.06.36:375][  0]LogD3D12RHI:   Driver Version: 516.40 (internal:31.0.15.1640, unified:516.40)
+[2022.07.03-17.06.36:375][  0]LogD3D12RHI:      Driver Date: 6-6-2022
+[2022.07.03-17.06.36:375][  0]LogRHI: Texture pool is 4611 MB (70% of 6588 MB)
+[2022.07.03-17.06.36:375][  0]LogD3D12RHI: Async texture creation enabled
+[2022.07.03-17.06.36:375][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.07.03-17.06.36:391][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.07.03-17.06.36:396][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="E:/UnrealEngine/Projects/CryptRaider/CryptRaider/CryptRaider.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/UnrealEngine/Projects/CryptRaider/CryptRaider/Intermediate/TurnkeyReport_0.log" -log="E:/UnrealEngine/Projects/CryptRaider/CryptRaider/Intermediate/TurnkeyLog_0.log" -project="E:/UnrealEngine/Projects/CryptRaider/CryptRaider/CryptRaider.uproject"  -platform=all'
+[2022.07.03-17.06.36:396][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/UnrealEngine/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="E:/UnrealEngine/Projects/CryptRaider/CryptRaider/CryptRaider.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/UnrealEngine/Projects/CryptRaider/CryptRaider/Intermediate/TurnkeyReport_0.log" -log="E:/UnrealEngine/Projects/CryptRaider/CryptRaider/Intermediate/TurnkeyLog_0.log" -project="E:/UnrealEngine/Projects/CryptRaider/CryptRaider/CryptRaider.uproject"  -platform=all" ]
+[2022.07.03-17.06.36:416][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.07.03-17.06.36:422][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.07.03-17.06.36:422][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.07.03-17.06.36:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.07.03-17.06.36:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.07.03-17.06.36:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.07.03-17.06.36:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.07.03-17.06.36:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.07.03-17.06.36:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.07.03-17.06.36:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.07.03-17.06.36:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.07.03-17.06.36:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.07.03-17.06.36:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.07.03-17.06.36:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.07.03-17.06.36:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.07.03-17.06.36:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.07.03-17.06.36:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.07.03-17.06.36:450][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.07.03-17.06.36:450][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.07.03-17.06.36:450][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.07.03-17.06.36:450][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.07.03-17.06.36:453][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.07.03-17.06.36:453][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.07.03-17.06.36:453][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.07.03-17.06.36:455][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.07.03-17.06.36:455][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.07.03-17.06.36:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.07.03-17.06.36:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.07.03-17.06.36:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.07.03-17.06.36:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.07.03-17.06.36:461][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.07.03-17.06.36:467][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.07.03-17.06.36:470][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.07.03-17.06.36:470][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.07.03-17.06.36:470][  0]LogTargetPlatformManager:   ADPCM
+[2022.07.03-17.06.36:470][  0]LogTargetPlatformManager:   PCM
+[2022.07.03-17.06.36:473][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.07.03-17.06.36:473][  0]LogTargetPlatformManager:   BINKA
+[2022.07.03-17.06.36:473][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.07.03-17.06.36:473][  0]LogTargetPlatformManager:   OGG
+[2022.07.03-17.06.36:473][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.07.03-17.06.36:473][  0]LogTargetPlatformManager:   OPUS
+[2022.07.03-17.06.36:512][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.07.03-17.06.36:518][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.07.03-17.06.36:518][  0]LogTargetPlatformManager:   SF_METAL
+[2022.07.03-17.06.36:518][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.07.03-17.06.36:518][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.07.03-17.06.36:518][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.07.03-17.06.36:518][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.07.03-17.06.36:518][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.07.03-17.06.36:518][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.07.03-17.06.36:518][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.07.03-17.06.36:518][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.07.03-17.06.36:518][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.07.03-17.06.36:518][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.07.03-17.06.36:518][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.07.03-17.06.36:518][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.07.03-17.06.36:518][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.07.03-17.06.36:518][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.07.03-17.06.36:521][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.07.03-17.06.36:521][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.07.03-17.06.36:521][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.07.03-17.06.36:521][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.07.03-17.06.36:521][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.07.03-17.06.36:521][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.07.03-17.06.36:521][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.07.03-17.06.36:521][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.07.03-17.06.36:521][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../Projects/CryptRaider/CryptRaider/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.07.03-17.06.36:525][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.07.03-17.06.36:526][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../Projects/CryptRaider/CryptRaider/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.07.03-17.06.36:530][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.07.03-17.06.36:533][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Projects/CryptRaider/CryptRaider/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.07.03-17.06.36:533][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.07.03-17.06.36:533][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Projects/CryptRaider/CryptRaider/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.07.03-17.06.36:533][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.07.03-17.06.36:554][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1096 MiB)
+[2022.07.03-17.06.36:554][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.07.03-17.06.36:554][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.07.03-17.06.36:562][  0]LogDerivedDataCache: Speed tests for C:/Users/zoste/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.07.03-17.06.36:562][  0]LogDerivedDataCache: Display: Performance to C:/Users/zoste/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1259.57MBs, RandomWriteSpeed=139.94MBs. Assigned SpeedClass 'Local'
+[2022.07.03-17.06.36:564][  0]LogDerivedDataCache: Using Local data cache path C:/Users/zoste/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.07.03-17.06.36:564][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.07.03-17.06.36:564][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.07.03-17.06.36:570][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.07.03-17.06.36:570][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.07.03-17.06.36:570][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (../../../../Projects/CryptRaider/CryptRaider/Intermediate/Shaders/WorkingDirectory/6524/).
+[2022.07.03-17.06.36:570][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/zoste/AppData/Local/Temp/UnrealShaderWorkingDir/31CE104D4147E71803D79CAF7F4E600E/'.
+[2022.07.03-17.06.36:571][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.07.03-17.06.36:571][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2022.07.03-17.06.37:779][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.07.03-17.06.37:779][  0]LogSlate: Using FreeType 2.10.0
+[2022.07.03-17.06.37:779][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.07.03-17.06.37:808][  0]LogAssetRegistry: FAssetRegistry took 0.0090 seconds to start up
+[2022.07.03-17.06.37:811][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.07.03-17.06.37:970][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.07.03-17.06.37:971][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.07.03-17.06.38:134][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.07.03-17.06.38:134][  0]LogDeviceProfileManager: Active device profile: [00000974785ADAC0][000009746F3A0000 50] WindowsEditor
+[2022.07.03-17.06.38:134][  0]LogDeviceProfileManager: Profiles: [00000974785AD580][0000097461DC0000 50] Windows, [00000974785ADAC0][000009746F3A0000 50] WindowsEditor, [00000974785AD200][0000097479230000 50] WindowsServer, [00000974785A9A00][0000097479235000 50] WindowsClient, [00000974785AD040][0000097479237800 50] IOS, [00000974785AD900][000009747923A000 50] iPadAir2, [00000974785AE1C0][000009746F3A7800 50] IPadPro, [00000974785AE540][000009747923C800 50] iPadAir3, [00000974785A9D80][0000097479260000 50] iPadAir4, [00000974785AAD40][0000097479265000 50] iPadMini4, [00000974785A9840][0000097479267800 50] iPadMini5, [00000974785A8DC0][000009747926A000 50] iPadMini6, [0000097479300C40][00000974792D0000 50] iPhone6S, [0000097479300A80][00000974792D2800 50] iPhone7, [0000097479300700][00000974792D5000 50] iPodTouch7, [0000097479302680][00000974792DA000 50] iPhone6SPlus, [0000097479301340][00000974792DC800 50] iPhone7Plus, [0000097479301DC0][0000097479232800 50] iPhoneSE, [0000097479302D80][000009747926C800 50] iPhone8, [0000097479302840][00000974792D7800 50] iPhone8Plus, [0000097479300E00][00000974792F0000 50] iPhoneX, [00000974793039C0][00000974792F5000 50] iPhoneXS, [0000097479302140][00000974792F7800 50] iPhoneXSMax, [0000097479303100][00000974792FA000 50] iPhoneXR, [0000097479302BC0][00000974792FC800 50] iPhone11, [0000097479303B80][0000097479262800 50] iPhone11Pro, [0000097479300FC0][0000097479270000 50] iPhone11ProMax, [0000097479301C00][0000097479275000 50] iPhoneSE2, [0000097479300000][0000097479277800 50] iPhone12Mini, [0000097479302300][000009747927A000 50] iPhone12, [0000097479304980][000009747927C800 50] iPhone12Pro, [0000097479300380][00000974792F2800 50] iPhone12ProMax, [00000974793040C0][0000097479280000 50] iPhone13Mini, [00000974793001C0][0000097479285000 50] iPhone13, [0000097479304B40][0000097479287800 50] iPhone13Pro, [0000097479301180][000009747928A000 50] iPhone13ProMax, [0000097479302F40][000009747928C800 50] iPadPro105, [00000974793008C0][0000097479272800 50] iPadPro129, [0000097479303800][0000097479290000 50] iPadPro97, [0000097479305940][0000097479295000 50] iPadPro2_129, [00000974793032C0][0000097479297800 50] iPad5, [0000097479305080][000009747929A000 50] iPad6, [0000097479303D40][000009747929C800 50] iPad7, [0000097479305B00][0000097479282800 50] iPad8, [0000097479303640][00000974792A0000 50] iPad9, [0000097479303F00][00000974792A5000 50] iPadPro11, [0000097479301500][00000974792A7800 50] iPadPro2_11, [00000974793047C0][00000974792AA000 50] iPadPro3_11, [0000097479306900][00000974792AC800 50] iPadPro3_129, [0000097479304280][0000097479292800 50] iPadPro4_129, [0000097479306040][00000974792B0000 50] iPadPro5_129, [0000097479304D00][00000974792B5000 50] AppleTV, [0000097479306AC0][00000974792B7800 50] AppleTV4K, [0000097479304600][00000974792BA000 50] TVOS, [0000097479308C00][00000974792A2800 50] Mac, [0000097479308F80][00000974792BC800 50] MacEditor, [00000974793024C0][0000097479310000 50] MacClient, [00000974793078C0][0000097479315000 50] MacServer, [0000097479301F80][000009747931A000 50] Linux, [0000097479309680][0000097479317800 50] LinuxEditor, [0000097479309840][000009747931C800 50] LinuxArm64Editor, [00000974793016C0][00000974792B2800 50] LinuxArm64, [0000097479308DC0][0000097479320000 50] LinuxClient, [0000097479307380][0000097479325000 50] LinuxArm64Client, [0000097479308340][0000097479327800 50] LinuxServer, [0000097479309A00][000009747932A000 50] LinuxArm64Server, [0000097479306740][000009747932C800 50] Android, [00000974793086C0][0000097479312800 50] Android_Preview_OpenGL, [0000097479308180][0000097479330000 50] Android_Preview_Vulkan, [0000097479305E80][0000097479335000 50] Android_Low, [0000097479304EC0][0000097479337800 50] Android_Mid, [00000974793071C0][000009747933A000 50] Android_High, [0000097479307A80][000009747933C800 50] Android_Default, [0000097479307000][0000097479322800 50] Android_Adreno4xx, [0000097479302A00][0000097479340000 50] Android_Adreno5xx_Low, [0000097479305240][0000097479345000 50] Android_Adreno5xx, [00000974793055C0][0000097479347800 50] Android_Adreno6xx, [0000097479309BC0][000009747934A000 50] Android_Adreno6xx_Vulkan, [0000097479306200][000009747934C800 50] Android_Adreno7xx, [0000097479306C80][0000097479332800 50] Android_Adreno7xx_Vulkan, [0000097479303480][0000097479350000 50] Android_Mali_T6xx, [0000097479306580][0000097479355000 50] Android_Mali_T7xx, [0000097479307540][0000097479357800 50] Android_Mali_T8xx, [0000097479308A40][000009747935A000 50] Android_Mali_G71, [000009747930AB80][000009747935C800 50] Android_Mali_G72, [0000097479304440][0000097479342800 50] Android_Mali_G72_Vulkan, [0000097479309F40][0000097479360000 50] Android_Mali_G76, [0000097479309140][0000097479365000 50] Android_Mali_G76_Vulkan, [000009747930A480][0000097479367800 50] Android_Mali_G77, [000009747930A800][000009747936A000 50] Android_Mali_G77_Vulkan, [0000097479307FC0][000009747936C800 50] Android_Mali_G78, [0000097479301880][0000097479352800 50] Android_Mali_G78_Vulkan, [000009747930A100][0000097479370000 50] Android_Mali_G710, [000009747930BB40][0000097479375000 50] Android_Mali_G710_Vulkan, [0000097479307E00][0000097479377800 50] Android_Xclipse_920, [000009747930AF00][000009747937A000 50] Android_Xclipse_920_Vulkan, [0000097479309D80][000009747937C800 50] Android_Vulkan_SM5, [000009747930B7C0][0000097479362800 50] Android_PowerVR_G6xxx, [000009747930B440][0000097479390000 50] Android_PowerVR_GT7xxx, [0000097479308500][0000097479395000 50] Android_PowerVR_GE8xxx, [000009747930B980][0000097479397800 50] Android_PowerVR_GM9xxx, [000009747930C780][000009747939A000 50] Android_PowerVR_GM9xxx_Vulkan, [0000097479307700][000009747939C800 50] Android_TegraK1, [000009747930BEC0][0000097479372800 50] Android_Unknown_Vulkan, [000009747930B0C0][0000097479380000 50] Oculus_Quest, [000009747930C940][0000097479385000 50] Oculus_Quest2, [0000097479305CC0][0000097479387800 50] HoloLens, 
+[2022.07.03-17.06.38:134][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.07.03-17.06.38:140][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.07.03-17.06.38:140][  0]LogTurnkeySupport: Turnkey Platform: HoloLens: (Status=Valid, Installed=10.0.22621.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.07.03-17.06.38:140][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.07.03-17.06.38:140][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.07.03-17.06.38:140][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.07.03-17.06.38:140][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.22621.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.07.03-17.06.38:156][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.07.03-17.06.38:316][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.07.03-17.06.38:316][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.07.03-17.06.38:316][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.07.03-17.06.38:316][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.07.03-17.06.38:316][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.07.03-17.06.38:328][  0]LogNetVersion: CryptRaider 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 380886935)
+[2022.07.03-17.06.38:435][  0]LogSlate: Border
+[2022.07.03-17.06.38:435][  0]LogSlate: BreadcrumbButton
+[2022.07.03-17.06.38:435][  0]LogSlate: Default
+[2022.07.03-17.06.38:435][  0]LogSlate: Icons.Save
+[2022.07.03-17.06.38:435][  0]LogSlate: Icons.Toolbar.Settings
+[2022.07.03-17.06.38:435][  0]LogSlate: ListView
+[2022.07.03-17.06.38:435][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.07.03-17.06.38:435][  0]LogSlate: SoftwareCursor_Grab
+[2022.07.03-17.06.38:435][  0]LogSlate: TableView.DarkRow
+[2022.07.03-17.06.38:435][  0]LogSlate: TableView.Row
+[2022.07.03-17.06.38:435][  0]LogSlate: TreeView
+[2022.07.03-17.06.38:574][  0]SourceControl: Source control is disabled
+[2022.07.03-17.06.38:601][  0]SourceControl: Source control is disabled
+[2022.07.03-17.06.38:601][  0]SourceControl: Source control is disabled
+[2022.07.03-17.06.38:708][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.07.03-17.06.38:708][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.07.03-17.06.38:708][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.07.03-17.06.39:037][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 216D4A754A560E7664765B985E44493C | Instance: A42A7D7548958C61C388729EF0A257C6 (ZOSTER-6524).
+[2022.07.03-17.06.39:072][  0]LogPython: Using Python 3.9.7
+[2022.07.03-17.06.39:730][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.07.03-17.06.39:734][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.07.03-17.06.40:137][  0]SourceControl: Source control is disabled
+[2022.07.03-17.06.40:146][  0]SourceControl: Source control is disabled
+[2022.07.03-17.06.40:151][  0]SourceControl: Source control is disabled
+[2022.07.03-17.06.40:156][  0]LogUProjectInfo: Found projects:
+[2022.07.03-17.06.40:541][  0]LogOpenImageDenoise: OIDN starting up
+[2022.07.03-17.06.40:596][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.07.03-17.06.40:616][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.07.03-17.06.40:616][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.07.03-17.06.40:702][  0]LogCollectionManager: Loaded 0 collections in 0.000684 seconds
+[2022.07.03-17.06.40:776][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealEngine/Projects/CryptRaider/CryptRaider/Saved/Collections/' took 0.00s
+[2022.07.03-17.06.40:776][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealEngine/Projects/CryptRaider/CryptRaider/Content/Developers/zoste/Collections/' took 0.00s
+[2022.07.03-17.06.40:776][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealEngine/Projects/CryptRaider/CryptRaider/Content/Collections/' took 0.00s
+[2022.07.03-17.06.41:027][  0]LogEngine: Initializing Engine...
+[2022.07.03-17.06.41:041][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.07.03-17.06.41:044][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.07.03-17.06.41:267][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.07.03-17.06.41:268][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.03-17.06.41:280][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.03-17.06.41:311][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.07.03-17.06.41:312][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.07.03-17.06.41:335][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.07.03-17.06.41:335][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.07.03-17.06.41:335][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.07.03-17.06.41:335][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.07.03-17.06.41:335][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.07.03-17.06.41:336][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.03-17.06.41:336][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.03-17.06.41:336][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.03-17.06.41:336][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.03-17.06.41:336][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.03-17.06.41:336][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.03-17.06.41:336][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.03-17.06.41:336][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.03-17.06.41:336][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.03-17.06.41:336][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.03-17.06.41:336][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.03-17.06.41:341][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.03-17.06.41:470][  0]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2022.07.03-17.06.41:470][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.03-17.06.41:473][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.03-17.06.41:473][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.03-17.06.41:473][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.07.03-17.06.41:473][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.07.03-17.06.41:475][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.07.03-17.06.41:475][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.07.03-17.06.41:475][  0]LogInit: FAudioDevice initialized.
+[2022.07.03-17.06.41:475][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.07.03-17.06.41:475][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.07.03-17.06.41:475][  0]LogInit: Texture streaming: Enabled
+[2022.07.03-17.06.41:512][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.2-20280985+++UE5+Release-5.0
+[2022.07.03-17.06.41:521][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.07.03-17.06.41:548][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.07.03-17.06.41:557][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.07.03-17.06.41:557][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: CryptRaiderEditor Win64 Development
+[2022.07.03-17.06.44:020][  0]LogLiveCoding: Display: First instance in process group "UE_CryptRaider_0xabb1b9b4", spawning console
+[2022.07.03-17.06.44:020][  0]LogLiveCoding: Display: Waiting for server
+[2022.07.03-17.06.44:020][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.07.03-17.06.44:037][  0]LogInit: Transaction tracking system initialized
+[2022.07.03-17.06.44:117][  0]BlueprintLog: New page: Editor Load
+[2022.07.03-17.06.44:307][  0]LocalizationService: Localization service is disabled
+[2022.07.03-17.06.44:355][  0]TimingProfiler: Initialize
+[2022.07.03-17.06.44:355][  0]TimingProfiler: OnSessionChanged
+[2022.07.03-17.06.44:355][  0]LoadingProfiler: Initialize
+[2022.07.03-17.06.44:355][  0]LoadingProfiler: OnSessionChanged
+[2022.07.03-17.06.44:355][  0]NetworkingProfiler: Initialize
+[2022.07.03-17.06.44:355][  0]NetworkingProfiler: OnSessionChanged
+[2022.07.03-17.06.44:355][  0]MemoryProfiler: Initialize
+[2022.07.03-17.06.44:355][  0]MemoryProfiler: OnSessionChanged
+[2022.07.03-17.06.44:890][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealEngine/Projects/CryptRaider/CryptRaider/Content/' took 0.01s
+[2022.07.03-17.06.44:890][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.07.03-17.06.45:095][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.07.03-17.06.45:097][  0]SourceControl: Source control is disabled
+[2022.07.03-17.06.45:097][  0]LogUnrealEdMisc: Loading editor; pre map load, took 10.460
+[2022.07.03-17.06.45:097][  0]Cmd: MAP LOAD FILE="../../../../Projects/CryptRaider/CryptRaider/Content/Dungeon.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.03-17.06.45:104][  0]LightingResults: New page: Lighting Build
+[2022.07.03-17.06.45:111][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.07.03-17.06.45:111][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.03-17.06.45:111][  0]MapCheck: New page: Map Check
+[2022.07.03-17.06.45:111][  0]LightingResults: New page: Lighting Build
+[2022.07.03-17.06.45:116][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.03-17.06.45:119][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.07.03-17.06.47:665][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Dungeon'.
+[2022.07.03-17.06.47:665][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.03-17.06.47:665][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.03-17.06.47:665][  0]LogAIModule: Creating AISystem for world Dungeon
+[2022.07.03-17.06.47:678][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.03-17.06.47:687][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.07.03-17.06.47:687][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.03-17.06.47:687][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,113ms to complete.
+[2022.07.03-17.06.47:687][  0]LogFileHelpers: Loading map 'Dungeon' took 2.591
+[2022.07.03-17.06.47:700][  0]LogUnrealEdMisc: Total Editor Startup Time, took 13.063
+[2022.07.03-17.06.47:700][  0]LogShaderCompilers: Display: ================================================
+[2022.07.03-17.06.47:700][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.07.03-17.06.47:700][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.07.03-17.06.47:700][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.07.03-17.06.47:700][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.07.03-17.06.47:700][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.07.03-17.06.47:700][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.07.03-17.06.47:700][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.07.03-17.06.47:700][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.07.03-17.06.47:700][  0]LogShaderCompilers: Display: ================================================
+[2022.07.03-17.06.47:820][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.03-17.06.47:826][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.03-17.06.47:832][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.03-17.06.47:838][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.03-17.06.47:991][  0]LogPakFile: Display: Mounted Pak file 'E:/UnrealEngine/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.07.03-17.06.47:991][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.03-17.06.48:000][  0]LogPakFile: Display: Mounted Pak file 'E:/UnrealEngine/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.07.03-17.06.48:000][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.03-17.06.48:006][  0]LogPakFile: Display: Mounted Pak file 'E:/UnrealEngine/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.07.03-17.06.48:006][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.03-17.06.48:013][  0]LogPakFile: Display: Mounted Pak file 'E:/UnrealEngine/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.07.03-17.06.48:013][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.03-17.06.48:031][  0]LogPakFile: Display: Mounted Pak file 'E:/UnrealEngine/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.07.03-17.06.48:031][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.03-17.06.48:038][  0]LogPakFile: Display: Mounted Pak file 'E:/UnrealEngine/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.07.03-17.06.48:038][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.03-17.06.48:043][  0]LogPakFile: Display: Mounted Pak file 'E:/UnrealEngine/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.07.03-17.06.48:043][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.03-17.06.48:049][  0]LogPakFile: Display: Mounted Pak file 'E:/UnrealEngine/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.07.03-17.06.48:049][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.03-17.06.48:054][  0]LogPakFile: Display: Mounted Pak file 'E:/UnrealEngine/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.07.03-17.06.48:054][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.03-17.06.48:060][  0]LogPakFile: Display: Mounted Pak file 'E:/UnrealEngine/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.07.03-17.06.48:060][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.03-17.06.48:449][  0]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.07.03-17.06.48:451][  0]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.07.03-17.06.48:459][  0]LogSlate: Took 0.004471 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.07.03-17.06.48:466][  0]LogSlate: Took 0.005981 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.07.03-17.06.48:516][  0]LogViewport: Scene viewport resized to 1043x894, mode Windowed.
+[2022.07.03-17.06.48:956][  0]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2022.07.03-17.06.49:236][  0]LogStall: Startup...
+[2022.07.03-17.06.49:238][  0]LogStall: Startup complete.
+[2022.07.03-17.06.49:252][  0]LogLoad: (Engine Initialization) Total time: 14.61 seconds
+[2022.07.03-17.06.49:252][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.07.03-17.06.49:338][  0]LogAssetRegistry: Asset discovery search completed in 11.5310 seconds
+[2022.07.03-17.06.49:349][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.07.03-17.06.49:375][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.07.03-17.06.49:956][  3]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.07.03-17.06.52:281][ 10]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Динамики (Realtek(R) Audio), InstanceID=1
+[2022.07.03-17.06.52:281][ 10]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11836
+[2022.07.03-17.06.52:613][ 10]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{edfc0050-f53b-4edb-b685-e0cde69463a1}, Name=Динамики (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=128.20
+[2022.07.03-17.06.52:613][ 10]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.07.03-17.06.52:616][ 11]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.07.03-17.06.53:281][ 13]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Динамики (SADES Locust Plus), InstanceID=1
+[2022.07.03-17.06.53:281][ 13]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11836
+[2022.07.03-17.06.53:613][ 13]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=48000, DeviceID={0.0.0.00000000}.{6d712756-8fae-4e83-979e-194b32f94aff}, Name=Динамики (SADES Locust Plus)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=32.78
+[2022.07.03-17.06.53:613][ 13]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2022.07.03-17.06.53:619][ 14]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.07.03-17.06.57:692][ 34]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/MedievalDungeon/Materials/M_Tiling_Master.M_Tiling_Master) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2022.07.03-17.06.57:693][ 34]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MedievalDungeon/Materials/M_Tiling_Master.M_Tiling_Master
+[2022.07.03-17.06.57:698][ 34]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 94B3C38F7565F3ACE4DC271ED5A384778F8A1851), compiling. 
+[2022.07.03-17.06.57:779][ 34]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.03-17.06.57:962][ 34]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 870250134BC8233D2992D486C7568C05330A350B), compiling. 
+[2022.07.03-17.06.57:967][ 34]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: BEFAD54350D12ED1087CBF7C098E174D7CA7BA2B), compiling. 
+[2022.07.03-17.06.57:971][ 34]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3 in PCD3D_SM5, Default, SM5 (DDC key hash: F09EBD1A935508ED031FA2E39C9CF2D8053241BD), compiling. 
+[2022.07.03-17.06.57:973][ 34]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 031B3E46CD7A26688D31D21E58E3F396A5B178E0), compiling. 
+[2022.07.03-17.06.57:976][ 34]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 5CE98C5F157B461242B83BA9CE737489E16F5218), compiling. 
+[2022.07.03-17.06.57:977][ 34]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 180242203E57FFEC0568017548829C22B9C3DE55), compiling. 
+[2022.07.03-17.06.57:979][ 34]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureObjectParameter_7 in PCD3D_SM5, Default, SM5 (DDC key hash: E4A829AC8A73E0AA05DA867CB8D203BE3D931F3A), compiling. 
+[2022.07.03-17.06.58:000][ 34]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.03-17.06.58:000][ 34]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.07.03-17.06.58:000][ 34]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.03-17.06.58:000][ 34]MaterialEditorStats: Shader Count: 0
+[2022.07.03-17.06.58:007][ 34]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.07.03-17.06.58:008][ 34]LogViewport: Scene viewport resized to 376x445, mode Windowed.
+[2022.07.03-17.06.59:621][166]MaterialEditorStats: Texture samplers: 3/16
+[2022.07.03-17.06.59:621][166]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.07.03-17.06.59:621][166]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.03-17.06.59:621][166]MaterialEditorStats: Shader Count: 1
+[2022.07.03-17.06.59:935][175]MaterialEditorStats: Texture samplers: 5/16
+[2022.07.03-17.06.59:935][175]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.07.03-17.06.59:935][175]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.03-17.06.59:935][175]MaterialEditorStats: Shader Count: 2
+[2022.07.03-17.08.12:123][ 22]LogSlate: Took 0.005354 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.07.03-17.08.12:134][ 22]LogSlate: Took 0.004877 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.07.03-17.08.17:724][631]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2022.07.03-17.08.17:724][631]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2022.07.03-17.08.31:630][250]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch_C
+[2022.07.03-17.08.31:630][250]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch_C
+[2022.07.03-17.08.31:632][250]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_C_0
+[2022.07.03-17.08.31:633][250]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_C_0
+[2022.07.03-17.08.34:337][565]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch_C
+[2022.07.03-17.08.34:337][565]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch_C
+[2022.07.03-17.08.34:340][565]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_C_1
+[2022.07.03-17.08.34:341][565]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_C_1
+[2022.07.03-17.08.37:284][875]LogDerivedDataCache: C:/Users/zoste/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.718 and deleted 0 file(s) with total size 0 MiB.
+[2022.07.03-17.09.08:244][609]LogEditorClassViewer: Warning: Class /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile.BP_FirstPersonProjectile_C has parent /Script/TP_FirstPerson.TP_FirstPersonProjectile, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.03-17.09.08:244][609]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.03-17.09.32:326][609]LogSlate: Window 'Select Path' being destroyed
+[2022.07.03-17.09.34:564][609]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2022.07.03-17.09.34:577][609]LogActorComponent: UnregisterComponent: (/Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C:SM_Torch_GEN_VARIABLE) Not registered. Aborting.
+[2022.07.03-17.09.34:588][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.07.03-17.09.34:599][609]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon
+[2022.07.03-17.09.34:600][609]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.03-17.09.36:227][609]LogViewport: Scene viewport resized to 988x745, mode Windowed.
+[2022.07.03-17.09.42:948][968]LogViewport: Scene viewport resized to 985x768, mode Windowed.
+[2022.07.03-17.09.43:010][970]LogViewport: Scene viewport resized to 606x422, mode Windowed.
+[2022.07.03-17.09.43:066][971]LogViewport: Scene viewport resized to 467x296, mode Windowed.
+[2022.07.03-17.09.43:141][976]LogViewport: Scene viewport resized to 1141x867, mode Windowed.
+[2022.07.03-17.09.44:526][139]LogSlate: Window 'BP_Torch_Dungeon' being destroyed
+[2022.07.03-17.15.06:332][442]LogActorComponent: UnregisterComponent: (/Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C:Torch_PointLight_GEN_VARIABLE) Not registered. Aborting.
+[2022.07.03-17.15.06:332][442]LogActorComponent: UnregisterComponent: (/Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C:SM_Torch_GEN_VARIABLE) Not registered. Aborting.
+[2022.07.03-17.15.06:391][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.07.03-17.15.12:038][756]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.15.12:038][756]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.15.12:040][756]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_1
+[2022.07.03-17.15.12:041][756]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_1
+[2022.07.03-17.15.15:173][973]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.15.15:173][973]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.15.15:175][973]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_2
+[2022.07.03-17.15.15:176][973]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_2
+[2022.07.03-17.15.26:978][595]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.15.26:978][595]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.15.26:980][595]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_3
+[2022.07.03-17.15.26:982][595]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_3
+[2022.07.03-17.15.39:209][417]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.15.39:209][417]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.15.39:214][417]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_4
+[2022.07.03-17.15.39:215][417]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_4
+[2022.07.03-17.16.05:044][530]Cmd: DELETE
+[2022.07.03-17.16.05:044][530]Cmd: ACTOR DELETE
+[2022.07.03-17.16.05:054][530]LogEditorActor: Deleted Actor: BP_Torch_Dungeon_C
+[2022.07.03-17.16.05:094][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.07.03-17.16.05:096][530]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2022.07.03-17.16.19:829][  8]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.16.19:830][  8]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.16.19:832][  8]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_5
+[2022.07.03-17.16.19:833][  8]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_5
+[2022.07.03-17.16.22:220][174]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.16.22:220][174]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.16.22:223][174]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_6
+[2022.07.03-17.16.22:224][174]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_6
+[2022.07.03-17.16.37:026][934]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.16.37:026][934]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.16.37:028][934]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_7
+[2022.07.03-17.16.37:029][934]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_7
+[2022.07.03-17.16.40:150][152]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.16.40:150][152]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.16.40:153][152]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_8
+[2022.07.03-17.16.40:155][152]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_8
+[2022.07.03-17.17.11:154][559]Cmd: DELETE
+[2022.07.03-17.17.11:154][559]Cmd: ACTOR DELETE
+[2022.07.03-17.17.11:160][559]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.03-17.17.11:191][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.07.03-17.17.11:193][559]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2022.07.03-17.17.29:326][475]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Chandalier.BP_Chandalier_C
+[2022.07.03-17.17.29:326][475]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Chandalier.BP_Chandalier_C
+[2022.07.03-17.17.29:331][475]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Chandalier.BP_Chandalier as actor: BP_Chandalier_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Chandalier_C_0
+[2022.07.03-17.17.29:335][475]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Chandalier.BP_Chandalier as actor: BP_Chandalier_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Chandalier_C_0
+[2022.07.03-17.17.30:570][546]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Chandalier.BP_Chandalier_C
+[2022.07.03-17.17.30:570][546]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Chandalier.BP_Chandalier_C
+[2022.07.03-17.17.30:574][546]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Chandalier.BP_Chandalier as actor: BP_Chandalier_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Chandalier_C_1
+[2022.07.03-17.17.30:579][546]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Chandalier.BP_Chandalier as actor: BP_Chandalier_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Chandalier_C_1
+[2022.07.03-17.19.34:748][718]LogViewport: Scene viewport resized to 1045x894, mode Windowed.
+[2022.07.03-17.19.34:823][720]LogViewport: Scene viewport resized to 1059x894, mode Windowed.
+[2022.07.03-17.19.34:887][722]LogViewport: Scene viewport resized to 1078x894, mode Windowed.
+[2022.07.03-17.19.34:929][724]LogViewport: Scene viewport resized to 1088x894, mode Windowed.
+[2022.07.03-17.19.34:971][726]LogViewport: Scene viewport resized to 1097x894, mode Windowed.
+[2022.07.03-17.19.35:011][728]LogViewport: Scene viewport resized to 1102x894, mode Windowed.
+[2022.07.03-17.19.35:051][730]LogViewport: Scene viewport resized to 1107x894, mode Windowed.
+[2022.07.03-17.19.35:132][735]LogViewport: Scene viewport resized to 1112x894, mode Windowed.
+[2022.07.03-17.19.35:166][737]LogViewport: Scene viewport resized to 1116x894, mode Windowed.
+[2022.07.03-17.19.35:228][741]LogViewport: Scene viewport resized to 1119x894, mode Windowed.
+[2022.07.03-17.19.35:273][743]LogViewport: Scene viewport resized to 1124x894, mode Windowed.
+[2022.07.03-17.19.35:320][745]LogViewport: Scene viewport resized to 1133x894, mode Windowed.
+[2022.07.03-17.19.35:371][747]LogViewport: Scene viewport resized to 1151x894, mode Windowed.
+[2022.07.03-17.19.35:419][749]LogViewport: Scene viewport resized to 1161x894, mode Windowed.
+[2022.07.03-17.19.35:452][751]LogViewport: Scene viewport resized to 1164x894, mode Windowed.
+[2022.07.03-17.19.35:489][753]LogViewport: Scene viewport resized to 1168x894, mode Windowed.
+[2022.07.03-17.19.35:538][755]LogViewport: Scene viewport resized to 1174x894, mode Windowed.
+[2022.07.03-17.19.35:629][761]LogViewport: Scene viewport resized to 1175x894, mode Windowed.
+[2022.07.03-17.19.35:847][782]LogViewport: Scene viewport resized to 1172x894, mode Windowed.
+[2022.07.03-17.19.35:929][784]LogViewport: Scene viewport resized to 1170x894, mode Windowed.
+[2022.07.03-17.19.39:287][951]LogViewport: Scene viewport resized to 1175x894, mode Windowed.
+[2022.07.03-17.19.39:322][953]LogViewport: Scene viewport resized to 1189x894, mode Windowed.
+[2022.07.03-17.19.39:406][955]LogViewport: Scene viewport resized to 1211x894, mode Windowed.
+[2022.07.03-17.19.39:450][957]LogViewport: Scene viewport resized to 1216x894, mode Windowed.
+[2022.07.03-17.19.39:490][959]LogViewport: Scene viewport resized to 1218x894, mode Windowed.
+[2022.07.03-17.19.39:540][961]LogViewport: Scene viewport resized to 1232x894, mode Windowed.
+[2022.07.03-17.19.39:599][963]LogViewport: Scene viewport resized to 1245x894, mode Windowed.
+[2022.07.03-17.19.39:645][965]LogViewport: Scene viewport resized to 1251x894, mode Windowed.
+[2022.07.03-17.19.39:709][967]LogViewport: Scene viewport resized to 1253x894, mode Windowed.
+[2022.07.03-17.19.39:751][969]LogViewport: Scene viewport resized to 1255x894, mode Windowed.
+[2022.07.03-17.19.40:271][ 26]LogViewport: Scene viewport resized to 1251x894, mode Windowed.
+[2022.07.03-17.19.40:379][ 28]LogViewport: Scene viewport resized to 1247x894, mode Windowed.
+[2022.07.03-17.19.40:543][ 44]LogViewport: Scene viewport resized to 1242x894, mode Windowed.
+[2022.07.03-17.19.59:283][ 15]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Candle_Holder.BP_Candle_Holder_C
+[2022.07.03-17.19.59:283][ 15]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Candle_Holder.BP_Candle_Holder_C
+[2022.07.03-17.19.59:291][ 15]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Candle_Holder.BP_Candle_Holder as actor: BP_Candle_Holder_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Candle_Holder_C_0
+[2022.07.03-17.19.59:300][ 15]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Candle_Holder.BP_Candle_Holder as actor: BP_Candle_Holder_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Candle_Holder_C_0
+[2022.07.03-17.20.01:079][117]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Candle_Holder.BP_Candle_Holder_C
+[2022.07.03-17.20.01:079][117]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Candle_Holder.BP_Candle_Holder_C
+[2022.07.03-17.20.01:088][117]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Candle_Holder.BP_Candle_Holder as actor: BP_Candle_Holder_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Candle_Holder_C_1
+[2022.07.03-17.20.01:098][117]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Candle_Holder.BP_Candle_Holder as actor: BP_Candle_Holder_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Candle_Holder_C_1
+[2022.07.03-17.20.33:109][709]Cmd: TRANSACTION UNDO
+[2022.07.03-17.20.33:109][709]LogEditorTransaction: Undo Move Elements
+[2022.07.03-17.20.33:145][709]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: A5EA0E218EC41836D132E26BD1D74D4764AFDC11), compiling. 
+[2022.07.03-17.20.33:168][709]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.03-17.20.33:168][709]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.07.03-17.20.33:168][709]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.03-17.20.33:168][709]MaterialEditorStats: Shader Count: 0
+[2022.07.03-17.20.33:258][711]LogShaderCompilers: Display: ================================================
+[2022.07.03-17.20.33:258][711]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.07.03-17.20.33:258][711]LogShaderCompilers: Display: Total job queries 24, among them cache hits 4 (16.67%)
+[2022.07.03-17.20.33:258][711]LogShaderCompilers: Display: Tracking 6 distinct input hashes that result in 4 distinct outputs (66.67%)
+[2022.07.03-17.20.33:258][711]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.07.03-17.20.33:258][711]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.07.03-17.20.33:258][711]LogShaderCompilers: Display: Shaders Compiled: 16
+[2022.07.03-17.20.33:258][711]LogShaderCompilers: Display: Jobs assigned 6, completed 6 (100.00%)
+[2022.07.03-17.20.33:258][711]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.14 s
+[2022.07.03-17.20.33:258][711]LogShaderCompilers: Display: Job execution time: average 1.67 s, max 1.98 s
+[2022.07.03-17.20.33:258][711]LogShaderCompilers: Display: Job life time (pending + execution): average 1.71 s, max 1.98
+[2022.07.03-17.20.33:258][711]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.98 s
+[2022.07.03-17.20.33:258][711]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.07.03-17.20.33:258][711]LogShaderCompilers: Display: Average processing rate: 3.03 jobs/sec
+[2022.07.03-17.20.33:258][711]LogShaderCompilers: Display: Effective parallelization: 2.47 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.07.03-17.20.33:258][711]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2022.07.03-17.20.33:258][711]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.97 sec, max 0.97 sec, min 0.97 sec)
+[2022.07.03-17.20.33:258][711]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.93 sec, max 0.93 sec, min 0.93 sec)
+[2022.07.03-17.20.33:258][711]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.82 sec, max 0.87 sec, min 0.78 sec)
+[2022.07.03-17.20.33:258][711]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2022.07.03-17.20.33:258][711]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2022.07.03-17.20.33:258][711]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 39.67% of total time (compiled    2 times, average 0.97 sec, max 0.97 sec, min 0.97 sec)
+[2022.07.03-17.20.33:258][711]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 33.71% of total time (compiled    2 times, average 0.82 sec, max 0.87 sec, min 0.78 sec)
+[2022.07.03-17.20.33:258][711]LogShaderCompilers: Display:                                                 FLumenCardVS - 19.05% of total time (compiled    1 times, average 0.93 sec, max 0.93 sec, min 0.93 sec)
+[2022.07.03-17.20.33:258][711]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.57% of total time (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2022.07.03-17.20.33:259][711]LogShaderCompilers: Display: ================================================
+[2022.07.03-17.20.33:291][712]MaterialEditorStats: Texture samplers: 5/16
+[2022.07.03-17.20.33:291][712]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.07.03-17.20.33:291][712]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.03-17.20.33:291][712]MaterialEditorStats: Shader Count: 4
+[2022.07.03-17.20.33:918][737]Cmd: TRANSACTION UNDO
+[2022.07.03-17.20.33:918][737]LogEditorTransaction: Undo Create Actors
+[2022.07.03-17.20.33:953][737]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: EEBF4BD9C295247DD62AD0F2314EEB8E22F19EC5), compiling. 
+[2022.07.03-17.20.33:963][737]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.03-17.20.33:963][737]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.07.03-17.20.33:963][737]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.03-17.20.33:963][737]MaterialEditorStats: Shader Count: 0
+[2022.07.03-17.20.34:024][740]MaterialEditorStats: Texture samplers: 5/16
+[2022.07.03-17.20.34:024][740]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.07.03-17.20.34:024][740]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.03-17.20.34:025][740]MaterialEditorStats: Shader Count: 4
+[2022.07.03-17.21.06:262][270]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.21.06:262][270]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.21.06:264][270]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_9
+[2022.07.03-17.21.06:265][270]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_9
+[2022.07.03-17.21.10:852][768]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.21.10:852][768]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.21.10:854][768]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_10
+[2022.07.03-17.21.10:855][768]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_10
+[2022.07.03-17.21.11:872][873]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.21.11:872][873]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.21.11:875][873]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_11
+[2022.07.03-17.21.11:876][873]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_11
+[2022.07.03-17.21.15:854][295]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.21.15:854][295]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.21.15:856][295]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_12
+[2022.07.03-17.21.15:857][295]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_12
+[2022.07.03-17.21.16:963][416]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.21.16:963][416]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.21.16:965][416]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_13
+[2022.07.03-17.21.16:967][416]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_13
+[2022.07.03-17.21.45:258][723]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.21.45:258][723]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.21.45:259][723]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_14
+[2022.07.03-17.21.45:261][723]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_14
+[2022.07.03-17.21.46:394][847]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.21.46:394][847]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.21.46:397][847]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_15
+[2022.07.03-17.21.46:398][847]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_15
+[2022.07.03-17.21.50:109][238]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.21.50:109][238]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.21.50:112][238]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_16
+[2022.07.03-17.21.50:113][238]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_16
+[2022.07.03-17.21.50:678][299]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.21.50:678][299]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.21.50:681][299]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_17
+[2022.07.03-17.21.50:682][299]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_17
+[2022.07.03-17.22.21:816][867]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.22.21:816][867]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.22.21:818][867]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_19
+[2022.07.03-17.22.21:819][867]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_19
+[2022.07.03-17.22.22:854][967]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.22.22:854][967]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.22.22:857][967]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_20
+[2022.07.03-17.22.22:858][967]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_20
+[2022.07.03-17.22.33:410][175]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.22.33:410][175]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.22.33:411][175]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_21
+[2022.07.03-17.22.33:413][175]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_21
+[2022.07.03-17.22.35:256][379]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.22.35:256][379]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.22.35:258][379]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_22
+[2022.07.03-17.22.35:260][379]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_22
+[2022.07.03-17.22.54:337][455]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.22.54:337][455]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.22.54:339][455]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_24
+[2022.07.03-17.22.54:340][455]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_24
+[2022.07.03-17.22.55:157][542]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.22.55:157][542]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.22.55:160][542]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_25
+[2022.07.03-17.22.55:161][542]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_25
+[2022.07.03-17.23.09:897][255]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.23.09:897][255]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.23.09:898][255]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_26
+[2022.07.03-17.23.09:900][255]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_26
+[2022.07.03-17.23.10:646][329]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.23.10:647][329]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.23.10:649][329]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_27
+[2022.07.03-17.23.10:650][329]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_27
+[2022.07.03-17.24.37:834][341]Cmd: TRANSACTION UNDO
+[2022.07.03-17.24.37:834][341]LogEditorTransaction: Undo Move Elements
+[2022.07.03-17.24.37:839][341]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 790A152DA7C0D96DE020FE62098A095F81C557AC), compiling. 
+[2022.07.03-17.24.37:858][341]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.03-17.24.37:858][341]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.07.03-17.24.37:858][341]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.03-17.24.37:858][341]MaterialEditorStats: Shader Count: 0
+[2022.07.03-17.24.37:927][343]LogShaderCompilers: Display: ================================================
+[2022.07.03-17.24.37:927][343]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.07.03-17.24.37:927][343]LogShaderCompilers: Display: Total job queries 32, among them cache hits 12 (37.50%)
+[2022.07.03-17.24.37:927][343]LogShaderCompilers: Display: Tracking 6 distinct input hashes that result in 4 distinct outputs (66.67%)
+[2022.07.03-17.24.37:927][343]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.07.03-17.24.37:927][343]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.07.03-17.24.37:927][343]LogShaderCompilers: Display: Shaders Compiled: 16
+[2022.07.03-17.24.37:927][343]LogShaderCompilers: Display: Jobs assigned 6, completed 6 (100.00%)
+[2022.07.03-17.24.37:927][343]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.14 s
+[2022.07.03-17.24.37:927][343]LogShaderCompilers: Display: Job execution time: average 1.67 s, max 1.98 s
+[2022.07.03-17.24.37:927][343]LogShaderCompilers: Display: Job life time (pending + execution): average 1.71 s, max 1.98
+[2022.07.03-17.24.37:927][343]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.98 s
+[2022.07.03-17.24.37:927][343]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.07.03-17.24.37:927][343]LogShaderCompilers: Display: Average processing rate: 3.03 jobs/sec
+[2022.07.03-17.24.37:927][343]LogShaderCompilers: Display: Effective parallelization: 2.47 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.07.03-17.24.37:927][343]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2022.07.03-17.24.37:927][343]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.97 sec, max 0.97 sec, min 0.97 sec)
+[2022.07.03-17.24.37:927][343]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.93 sec, max 0.93 sec, min 0.93 sec)
+[2022.07.03-17.24.37:927][343]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.82 sec, max 0.87 sec, min 0.78 sec)
+[2022.07.03-17.24.37:927][343]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2022.07.03-17.24.37:927][343]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2022.07.03-17.24.37:927][343]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 39.67% of total time (compiled    2 times, average 0.97 sec, max 0.97 sec, min 0.97 sec)
+[2022.07.03-17.24.37:927][343]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 33.71% of total time (compiled    2 times, average 0.82 sec, max 0.87 sec, min 0.78 sec)
+[2022.07.03-17.24.37:927][343]LogShaderCompilers: Display:                                                 FLumenCardVS - 19.05% of total time (compiled    1 times, average 0.93 sec, max 0.93 sec, min 0.93 sec)
+[2022.07.03-17.24.37:927][343]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.57% of total time (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2022.07.03-17.24.37:927][343]LogShaderCompilers: Display: ================================================
+[2022.07.03-17.24.37:953][344]MaterialEditorStats: Texture samplers: 5/16
+[2022.07.03-17.24.37:953][344]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.07.03-17.24.37:953][344]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.03-17.24.37:953][344]MaterialEditorStats: Shader Count: 4
+[2022.07.03-17.24.38:397][363]Cmd: TRANSACTION UNDO
+[2022.07.03-17.24.38:397][363]LogEditorTransaction: Undo Move Elements
+[2022.07.03-17.24.38:401][363]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 54E5196B87726C4E91511E91801120B78738D37A), compiling. 
+[2022.07.03-17.24.38:409][363]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.03-17.24.38:409][363]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.07.03-17.24.38:409][363]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.03-17.24.38:409][363]MaterialEditorStats: Shader Count: 0
+[2022.07.03-17.24.38:442][366]MaterialEditorStats: Texture samplers: 5/16
+[2022.07.03-17.24.38:442][366]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.07.03-17.24.38:442][366]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.03-17.24.38:442][366]MaterialEditorStats: Shader Count: 4
+[2022.07.03-17.24.38:752][402]Cmd: TRANSACTION UNDO
+[2022.07.03-17.24.38:752][402]LogEditorTransaction: Undo Move Elements
+[2022.07.03-17.24.38:756][402]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 237F3FEA08DBA42C2D86A61AC9DD475067CD8B27), compiling. 
+[2022.07.03-17.24.38:764][402]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.03-17.24.38:764][402]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.07.03-17.24.38:764][402]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.03-17.24.38:765][402]MaterialEditorStats: Shader Count: 0
+[2022.07.03-17.24.38:798][405]MaterialEditorStats: Texture samplers: 5/16
+[2022.07.03-17.24.38:798][405]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.07.03-17.24.38:798][405]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.03-17.24.38:798][405]MaterialEditorStats: Shader Count: 4
+[2022.07.03-17.24.39:207][453]Cmd: TRANSACTION UNDO
+[2022.07.03-17.24.39:207][453]LogEditorTransaction: Undo Move Elements
+[2022.07.03-17.24.39:222][453]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: A6A090F5C27F3D0CDC59640E21B5E992B9D74CAF), compiling. 
+[2022.07.03-17.24.39:233][453]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.03-17.24.39:233][453]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.07.03-17.24.39:233][453]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.03-17.24.39:233][453]MaterialEditorStats: Shader Count: 0
+[2022.07.03-17.24.39:278][456]MaterialEditorStats: Texture samplers: 5/16
+[2022.07.03-17.24.39:278][456]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.07.03-17.24.39:278][456]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.03-17.24.39:278][456]MaterialEditorStats: Shader Count: 4
+[2022.07.03-17.26.29:577][231]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.26.29:577][231]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.26.29:579][231]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_32
+[2022.07.03-17.26.29:580][231]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_32
+[2022.07.03-17.26.30:361][315]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.26.30:361][315]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.26.30:363][315]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_33
+[2022.07.03-17.26.30:364][315]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_33
+[2022.07.03-17.27.16:609][807]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.27.16:609][807]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.27.16:611][807]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_34
+[2022.07.03-17.27.16:612][807]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_34
+[2022.07.03-17.27.17:487][886]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.27.17:487][886]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.27.17:489][886]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_35
+[2022.07.03-17.27.17:491][886]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_35
+[2022.07.03-17.27.26:183][847]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.27.26:183][847]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.27.26:186][847]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_36
+[2022.07.03-17.27.26:187][847]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_36
+[2022.07.03-17.27.27:657][  7]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.27.27:657][  7]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.27.27:659][  7]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_37
+[2022.07.03-17.27.27:660][  7]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_37
+[2022.07.03-17.28.00:273][819]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.28.00:273][819]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.28.00:275][819]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_38
+[2022.07.03-17.28.00:277][819]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_38
+[2022.07.03-17.28.04:319][281]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.28.04:319][281]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.28.04:321][281]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_39
+[2022.07.03-17.28.04:323][281]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_39
+[2022.07.03-17.28.24:007][527]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.28.24:007][527]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.28.24:009][527]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_40
+[2022.07.03-17.28.24:010][527]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_40
+[2022.07.03-17.28.25:669][706]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.28.25:669][706]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.28.25:671][706]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_41
+[2022.07.03-17.28.25:673][706]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_41
+[2022.07.03-17.28.45:548][980]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.28.45:548][980]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.28.45:551][980]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_42
+[2022.07.03-17.28.45:552][980]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_42
+[2022.07.03-17.28.48:402][286]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.28.48:402][286]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.28.48:405][286]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_43
+[2022.07.03-17.28.48:406][286]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_43
+[2022.07.03-17.30.30:900][771]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.30.30:900][771]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.30.30:902][771]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_44
+[2022.07.03-17.30.30:904][771]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_44
+[2022.07.03-17.30.32:189][854]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.30.32:189][854]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.30.32:191][854]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_45
+[2022.07.03-17.30.32:192][854]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_45
+[2022.07.03-17.30.42:535][397]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.30.42:535][397]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.30.42:537][397]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_46
+[2022.07.03-17.30.42:539][397]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_46
+[2022.07.03-17.30.44:175][499]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.30.44:175][499]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.07.03-17.30.44:177][499]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_47
+[2022.07.03-17.30.44:178][499]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_47
+[2022.07.03-17.31.10:172][657]Cmd: DELETE
+[2022.07.03-17.31.10:172][657]Cmd: ACTOR DELETE
+[2022.07.03-17.31.10:184][657]LogEditorActor: Deleted Actor: BP_Torch_Dungeon_C
+[2022.07.03-17.31.10:250][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.07.03-17.31.10:253][657]LogEditorActor: Deleted 1 Actors (0.081 secs)
+[2022.07.03-17.31.12:790][740]Cmd: DELETE
+[2022.07.03-17.31.12:790][740]Cmd: ACTOR DELETE
+[2022.07.03-17.31.12:798][740]LogEditorActor: Deleted Actor: BP_Torch_Dungeon_C
+[2022.07.03-17.31.12:834][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.07.03-17.31.12:836][740]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2022.07.03-17.31.16:000][852]Cmd: DELETE
+[2022.07.03-17.31.16:000][852]Cmd: ACTOR DELETE
+[2022.07.03-17.31.16:007][852]LogEditorActor: Deleted Actor: BP_Torch_Dungeon_C
+[2022.07.03-17.31.16:043][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.07.03-17.31.16:045][852]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2022.07.03-17.31.18:165][928]Cmd: DELETE
+[2022.07.03-17.31.18:165][928]Cmd: ACTOR DELETE
+[2022.07.03-17.31.18:172][928]LogEditorActor: Deleted Actor: BP_Torch_Dungeon_C
+[2022.07.03-17.31.18:208][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.07.03-17.31.18:210][928]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2022.07.03-17.31.26:632][269]Cmd: DELETE
+[2022.07.03-17.31.26:632][269]Cmd: ACTOR DELETE
+[2022.07.03-17.31.26:639][269]LogEditorActor: Deleted Actor: BP_Torch_Dungeon_C
+[2022.07.03-17.31.26:671][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.07.03-17.31.26:673][269]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2022.07.03-17.33.04:957][704]Cmd: DELETE
+[2022.07.03-17.33.04:957][704]Cmd: ACTOR DELETE
+[2022.07.03-17.33.04:965][704]LogEditorActor: Deleted Actor: BP_Torch_Dungeon_C
+[2022.07.03-17.33.04:998][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.07.03-17.33.05:002][704]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2022.07.03-17.33.23:458][584]Cmd: DELETE
+[2022.07.03-17.33.23:458][584]Cmd: ACTOR DELETE
+[2022.07.03-17.33.23:465][584]LogEditorActor: Deleted Actor: BP_Torch_Dungeon_C
+[2022.07.03-17.33.23:495][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.07.03-17.33.23:499][584]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2022.07.03-17.35.31:676][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.07.03-17.35.31:679][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeon" FILE="../../../../Projects/CryptRaider/CryptRaider/Saved/Autosaves/Game/Dungeon_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.07.03-17.35.31:686][196]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.006329 seconds
+[2022.07.03-17.35.31:741][196]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dungeon_Auto1
+[2022.07.03-17.35.31:741][196]LogSavePackage: Moving '../../../../Projects/CryptRaider/CryptRaider/Saved/Dungeon_Auto1D6EE52EA48C493512A3392A0825B6159.tmp' to '../../../../Projects/CryptRaider/CryptRaider/Saved/Autosaves/Game/Dungeon_Auto1.umap'
+[2022.07.03-17.35.31:749][196]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dungeon' took 0.102
+[2022.07.03-17.35.31:749][196]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.102
+[2022.07.03-17.35.31:749][196]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_Torch_Dungeon] ([2] browsable assets)...
+[2022.07.03-17.35.31:813][196]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon]
+[2022.07.03-17.35.31:813][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Torch_Dungeon]
+[2022.07.03-17.35.31:813][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Torch_Dungeon" FILE="../../../../Projects/CryptRaider/CryptRaider/Saved/Autosaves/Game/BP_Torch_Dungeon_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.07.03-17.35.31:818][196]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_Torch_Dungeon_Auto1
+[2022.07.03-17.35.31:818][196]LogSavePackage: Moving '../../../../Projects/CryptRaider/CryptRaider/Saved/BP_Torch_Dungeon_Auto18F23887A49F5A014650C2198BF9C197B.tmp' to '../../../../Projects/CryptRaider/CryptRaider/Saved/Autosaves/Game/BP_Torch_Dungeon_Auto1.uasset'
+[2022.07.03-17.35.31:818][196]LogFileHelpers: Auto-saving content packages took 0.069
+[2022.07.03-17.35.48:645][687]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.07.03-17.36.01:719][319]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Chandalier.BP_Chandalier_C
+[2022.07.03-17.36.01:719][319]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Chandalier.BP_Chandalier_C
+[2022.07.03-17.36.01:724][319]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Chandalier.BP_Chandalier as actor: BP_Chandalier_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Chandalier_C_2
+[2022.07.03-17.36.01:729][319]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Chandalier.BP_Chandalier as actor: BP_Chandalier_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Chandalier_C_2
+[2022.07.03-17.36.04:404][466]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Chandalier.BP_Chandalier_C
+[2022.07.03-17.36.04:404][466]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Chandalier.BP_Chandalier_C
+[2022.07.03-17.36.04:410][466]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Chandalier.BP_Chandalier as actor: BP_Chandalier_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Chandalier_C_3
+[2022.07.03-17.36.04:415][466]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Chandalier.BP_Chandalier as actor: BP_Chandalier_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Chandalier_C_3
+[2022.07.03-17.36.48:562][420]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.07.03-17.36.58:383][822]Cmd: DELETE
+[2022.07.03-17.36.58:383][822]Cmd: ACTOR DELETE
+[2022.07.03-17.36.58:391][822]LogEditorActor: Deleted Actor: BP_Torch_Dungeon_C
+[2022.07.03-17.36.58:445][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.07.03-17.36.58:449][822]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2022.07.03-17.37.00:146][897]Cmd: DELETE
+[2022.07.03-17.37.00:146][897]Cmd: ACTOR DELETE
+[2022.07.03-17.37.00:153][897]LogEditorActor: Deleted Actor: BP_Torch_Dungeon_C
+[2022.07.03-17.37.00:181][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.07.03-17.37.00:183][897]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2022.07.03-17.37.04:102][ 88]Cmd: TRANSACTION UNDO
+[2022.07.03-17.37.04:102][ 88]LogEditorTransaction: Undo Delete Elements
+[2022.07.03-17.37.04:145][ 88]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: EC321BAA20A84474CC0DF39D7C1A1DCC381368E3), compiling. 
+[2022.07.03-17.37.04:164][ 88]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.03-17.37.04:164][ 88]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.07.03-17.37.04:164][ 88]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.03-17.37.04:164][ 88]MaterialEditorStats: Shader Count: 0
+[2022.07.03-17.37.04:231][ 90]LogShaderCompilers: Display: ================================================
+[2022.07.03-17.37.04:231][ 90]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.07.03-17.37.04:231][ 90]LogShaderCompilers: Display: Total job queries 48, among them cache hits 28 (58.33%)
+[2022.07.03-17.37.04:231][ 90]LogShaderCompilers: Display: Tracking 6 distinct input hashes that result in 4 distinct outputs (66.67%)
+[2022.07.03-17.37.04:231][ 90]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.07.03-17.37.04:231][ 90]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.07.03-17.37.04:231][ 90]LogShaderCompilers: Display: Shaders Compiled: 16
+[2022.07.03-17.37.04:231][ 90]LogShaderCompilers: Display: Jobs assigned 6, completed 6 (100.00%)
+[2022.07.03-17.37.04:231][ 90]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.14 s
+[2022.07.03-17.37.04:231][ 90]LogShaderCompilers: Display: Job execution time: average 1.67 s, max 1.98 s
+[2022.07.03-17.37.04:231][ 90]LogShaderCompilers: Display: Job life time (pending + execution): average 1.71 s, max 1.98
+[2022.07.03-17.37.04:231][ 90]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.98 s
+[2022.07.03-17.37.04:231][ 90]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.07.03-17.37.04:231][ 90]LogShaderCompilers: Display: Average processing rate: 3.03 jobs/sec
+[2022.07.03-17.37.04:231][ 90]LogShaderCompilers: Display: Effective parallelization: 2.47 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.07.03-17.37.04:231][ 90]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2022.07.03-17.37.04:231][ 90]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.97 sec, max 0.97 sec, min 0.97 sec)
+[2022.07.03-17.37.04:231][ 90]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.93 sec, max 0.93 sec, min 0.93 sec)
+[2022.07.03-17.37.04:231][ 90]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.82 sec, max 0.87 sec, min 0.78 sec)
+[2022.07.03-17.37.04:231][ 90]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2022.07.03-17.37.04:232][ 90]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2022.07.03-17.37.04:232][ 90]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 39.67% of total time (compiled    2 times, average 0.97 sec, max 0.97 sec, min 0.97 sec)
+[2022.07.03-17.37.04:232][ 90]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 33.71% of total time (compiled    2 times, average 0.82 sec, max 0.87 sec, min 0.78 sec)
+[2022.07.03-17.37.04:232][ 90]LogShaderCompilers: Display:                                                 FLumenCardVS - 19.05% of total time (compiled    1 times, average 0.93 sec, max 0.93 sec, min 0.93 sec)
+[2022.07.03-17.37.04:232][ 90]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.57% of total time (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2022.07.03-17.37.04:232][ 90]LogShaderCompilers: Display: ================================================
+[2022.07.03-17.37.04:296][ 91]MaterialEditorStats: Texture samplers: 5/16
+[2022.07.03-17.37.04:296][ 91]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.07.03-17.37.04:296][ 91]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.03-17.37.04:296][ 91]MaterialEditorStats: Shader Count: 4
+[2022.07.03-17.37.04:579][ 96]Cmd: TRANSACTION UNDO
+[2022.07.03-17.37.04:579][ 96]LogEditorTransaction: Undo Clicking on Elements
+[2022.07.03-17.37.04:583][ 96]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 8C15D3BDEBB7D8C3E7F5CB81B4AD66836DCA7CA1), compiling. 
+[2022.07.03-17.37.04:598][ 96]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.03-17.37.04:598][ 96]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.07.03-17.37.04:598][ 96]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.03-17.37.04:598][ 96]MaterialEditorStats: Shader Count: 0
+[2022.07.03-17.37.04:706][ 98]MaterialEditorStats: Texture samplers: 5/16
+[2022.07.03-17.37.04:706][ 98]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.07.03-17.37.04:706][ 98]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.07.03-17.37.04:706][ 98]MaterialEditorStats: Shader Count: 4
+[2022.07.03-17.37.42:731][119]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.SM_Floor
+[2022.07.03-17.37.42:740][119]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.03-17.37.43:045][119]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2022.07.03-17.38.53:694][ 14]LogStaticMesh: Display: Building static mesh SM_Floor...
+[2022.07.03-17.38.53:694][ 14]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.SM_Floor
+[2022.07.03-17.39.09:200][851]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor
+[2022.07.03-17.39.09:200][851]LogSavePackage: Moving '../../../../Projects/CryptRaider/CryptRaider/Saved/SM_FloorF8DC20B34CF4F0C51CC975BBB8BD0481.tmp' to '../../../../Projects/CryptRaider/CryptRaider/Content/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.uasset'
+[2022.07.03-17.39.09:215][851]AssetCheck: New page: Asset Save: SM_Floor
+[2022.07.03-17.39.09:216][851]LogContentValidation: Display: Validating StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.SM_Floor
+[2022.07.03-17.39.12:013][ 63]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.03-17.39.12:020][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.03-17.39.12:021][ 63]PIE: New page: PIE session: Dungeon (4 июл. 2022 г., 01:39:12)
+[2022.07.03-17.39.12:024][ 63]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.07.03-17.39.12:025][ 63]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.07.03-17.39.12:025][ 63]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Dungeon
+[2022.07.03-17.39.12:051][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025847s)
+[2022.07.03-17.39.12:051][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeon.Dungeon to /Game/UEDPIE_0_Dungeon.Dungeon (0.026214s)
+[2022.07.03-17.39.12:051][ 63]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.03-17.39.12:052][ 63]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.03-17.39.12:052][ 63]LogAIModule: Creating AISystem for world Dungeon
+[2022.07.03-17.39.12:052][ 63]LogPlayLevel: PIE: World Init took: (0.001480s)
+[2022.07.03-17.39.12:079][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.07.03-17.39.12:083][ 63]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.07.03-17.39.12:083][ 63]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.03-17.39.12:083][ 63]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.03-17.39.12:083][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.03-17.39.12:083][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.03-17.39.12:083][ 63]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.03-17.39.12:083][ 63]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.03-17.39.12:083][ 63]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.03-17.39.12:083][ 63]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.03-17.39.12:083][ 63]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.03-17.39.12:083][ 63]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.03-17.39.12:083][ 63]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.03-17.39.12:085][ 63]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.03-17.39.12:106][ 63]LogAudioMixer: Display: Using Audio Hardware Device Динамики (SADES Locust Plus)
+[2022.07.03-17.39.12:107][ 63]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.03-17.39.12:107][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.03-17.39.12:107][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.03-17.39.12:108][ 63]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.07.03-17.39.12:108][ 63]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2022.07.03-17.39.12:109][ 63]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.07.03-17.39.12:109][ 63]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.07.03-17.39.12:109][ 63]LogInit: FAudioDevice initialized.
+[2022.07.03-17.39.12:109][ 63]LogAudio: Display: Audio Device (ID: 2) registered with world 'Dungeon'.
+[2022.07.03-17.39.12:119][ 63]LogLoad: Game class is 'CryptRaiderGameMode'
+[2022.07.03-17.39.12:131][ 63]LogWorld: Bringing World /Game/UEDPIE_0_Dungeon.Dungeon up for play (max tick rate 0) at 2022.07.03-21.39.12
+[2022.07.03-17.39.12:132][ 63]LogWorld: Bringing up level for play took: 0.012293
+[2022.07.03-17.39.12:134][ 63]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2022.07.03-17.39.12:156][ 63]PIE: Server logged in
+[2022.07.03-17.39.12:156][ 63]PIE: Play in editor total start time 0,137 seconds.
+[2022.07.03-17.39.43:362][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.03-17.39.43:362][531]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Dungeon
+[2022.07.03-17.39.43:363][531]LogWorld: UWorld::CleanupWorld for Dungeon, bSessionEnded=true, bCleanupResources=true
+[2022.07.03-17.39.43:364][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.03-17.39.43:384][531]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.03-17.39.43:392][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.03-17.39.43:426][531]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.03-17.39.43:426][531]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.07.03-17.39.43:428][531]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.07.03-17.39.43:430][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.03-17.39.43:462][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.07.03-17.39.43:504][532]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.07.03-17.39.54:809][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.07.03-17.39.54:857][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeon" FILE="../../../../Projects/CryptRaider/CryptRaider/Content/Dungeon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.03-17.39.54:889][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.07.03-17.39.54:947][780]LogSavePackage: Moving output files for package: /Game/Dungeon
+[2022.07.03-17.39.54:948][780]LogSavePackage: Moving '../../../../Projects/CryptRaider/CryptRaider/Saved/Dungeon2EAAA75A4506CA1E6FEFDE975A818B9E.tmp' to '../../../../Projects/CryptRaider/CryptRaider/Content/Dungeon.umap'
+[2022.07.03-17.39.54:957][780]LogFileHelpers: Saving map 'Dungeon' took 0.101
+[2022.07.03-17.39.54:957][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Torch_Dungeon" FILE="../../../../Projects/CryptRaider/CryptRaider/Content/BP_Torch_Dungeon.uasset" SILENT=true
+[2022.07.03-17.39.54:961][780]LogSavePackage: Moving output files for package: /Game/BP_Torch_Dungeon
+[2022.07.03-17.39.54:961][780]LogSavePackage: Moving '../../../../Projects/CryptRaider/CryptRaider/Saved/BP_Torch_DungeonAE595A9E4FF7C94EAD824C88564E7BD0.tmp' to '../../../../Projects/CryptRaider/CryptRaider/Content/BP_Torch_Dungeon.uasset'
+[2022.07.03-17.39.54:979][780]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.03-17.39.54:979][780]LogContentValidation: Display: Validating World /Game/Dungeon.Dungeon
+[2022.07.03-17.39.54:979][780]LogContentValidation: Display: Validating Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon
+[2022.07.03-17.40.55:173][ 61]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2022.07.03-17.40.55:173][ 61]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2022.07.03-17.41.27:509][ 15]LogContentBrowser: Deferred new asset file creation: BP_FirstPersonCharacter_Child
+[2022.07.03-17.41.27:527][ 15]LogContentBrowser: Creating deferred item: BP_FirstPersonCharacter_Child
+[2022.07.03-17.41.27:548][ 16]LogContentBrowser: Renaming the item being created (Deferred Item: BP_FirstPersonCharacter_Child).
+[2022.07.03-17.41.29:027][ 82]LogContentBrowser: Attempting asset rename: BP_FirstPersonCharacter_Child -> BP_FirstPersonCharacter_Child
+[2022.07.03-17.41.29:034][ 82]LogContentBrowser: End creating deferred item BP_FirstPersonCharacter_Child
+[2022.07.03-17.41.40:122][539]LogContentBrowser: Attempting asset rename: BP_FirstPersonCharacter_Child -> BP_Здфнук
+[2022.07.03-17.41.40:154][539]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_Здфнук.BP_Здфнук:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Child.PackageMetaData'
+[2022.07.03-17.41.40:154][539]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_Здфнук.SKEL_BP_Здфнук_C:UserConstructionScript' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Child.PackageMetaData'
+[2022.07.03-17.41.40:154][539]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_Здфнук.SKEL_BP_Здфнук_C' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Child.PackageMetaData'
+[2022.07.03-17.41.40:154][539]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_Здфнук.BP_Здфнук_C' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Child.PackageMetaData'
+[2022.07.03-17.41.40:154][539]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_Здфнук.BP_Здфнук:EventGraph.K2Node_Event_0' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Child.PackageMetaData'
+[2022.07.03-17.41.40:154][539]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_Здфнук.BP_Здфнук:EventGraph.K2Node_Event_1' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Child.PackageMetaData'
+[2022.07.03-17.41.40:154][539]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_Здфнук.BP_Здфнук:EventGraph.K2Node_Event_2' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Child.PackageMetaData'
+[2022.07.03-17.41.40:239][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Здфнук" FILE="../../../../Projects/CryptRaider/CryptRaider/Content/FirstPerson/Blueprints/BP_Здфнук.uasset" SILENT=true
+[2022.07.03-17.41.40:243][539]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Здфнук
+[2022.07.03-17.41.40:243][539]LogSavePackage: Moving '../../../../Projects/CryptRaider/CryptRaider/Saved/BP_Здфнук1093FFE3432F050C68C5CC854DA5DA77.tmp' to '../../../../Projects/CryptRaider/CryptRaider/Content/FirstPerson/Blueprints/BP_Здфнук.uasset'
+[2022.07.03-17.41.40:304][539]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.07.03-17.41.40:342][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.07.03-17.41.40:376][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.07.03-17.41.40:386][539]AssetCheck: New page: Asset Save: BP_Здфнук
+[2022.07.03-17.41.40:386][539]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_Здфнук.BP_Здфнук
+[2022.07.03-17.41.46:697][784]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2022.07.03-17.41.46:698][784]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2022.07.03-17.41.47:096][799]LogContentBrowser: Attempting asset rename: BP_Здфнук -> BP_Player
+[2022.07.03-17.41.47:118][799]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_Player.BP_Player_C' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Здфнук.PackageMetaData'
+[2022.07.03-17.41.47:118][799]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_Player.SKEL_BP_Player_C' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Здфнук.PackageMetaData'
+[2022.07.03-17.41.47:118][799]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_Player.SKEL_BP_Player_C:UserConstructionScript' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Здфнук.PackageMetaData'
+[2022.07.03-17.41.47:118][799]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_Player.BP_Player:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Здфнук.PackageMetaData'
+[2022.07.03-17.41.47:118][799]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_Player.BP_Player:EventGraph.K2Node_Event_0' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Здфнук.PackageMetaData'
+[2022.07.03-17.41.47:118][799]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_Player.BP_Player:EventGraph.K2Node_Event_1' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Здфнук.PackageMetaData'
+[2022.07.03-17.41.47:118][799]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_Player.BP_Player:EventGraph.K2Node_Event_2' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Здфнук.PackageMetaData'
+[2022.07.03-17.41.47:191][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Player" FILE="../../../../Projects/CryptRaider/CryptRaider/Content/FirstPerson/Blueprints/BP_Player.uasset" SILENT=true
+[2022.07.03-17.41.47:195][799]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Player
+[2022.07.03-17.41.47:195][799]LogSavePackage: Moving '../../../../Projects/CryptRaider/CryptRaider/Saved/BP_PlayerCDE34EF34C55D6272DA925BBB4601243.tmp' to '../../../../Projects/CryptRaider/CryptRaider/Content/FirstPerson/Blueprints/BP_Player.uasset'
+[2022.07.03-17.41.47:253][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.07.03-17.41.47:288][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.07.03-17.41.47:322][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.07.03-17.41.47:331][799]AssetCheck: New page: Asset Save: BP_Player
+[2022.07.03-17.41.47:331][799]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_Player.BP_Player
+[2022.07.03-17.41.53:715][ 54]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Player.BP_Player
+[2022.07.03-17.41.53:716][ 54]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.03-17.41.54:182][ 54]LogViewport: Scene viewport resized to 1141x869, mode Windowed.
+[2022.07.03-17.41.56:778][329]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.07.03-17.42.01:589][793]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.07.03-17.42.02:274][851]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.07.03-17.42.13:884][ 82]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.07.03-17.42.18:393][476]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2022.07.03-17.42.18:445][476]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.03-17.42.18:458][476]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.03-17.42.19:111][476]LogViewport: Scene viewport resized to 1141x858, mode Windowed.
+[2022.07.03-17.42.21:080][627]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.07.03-17.42.21:080][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.03-17.42.37:947][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Player" FILE="../../../../Projects/CryptRaider/CryptRaider/Content/FirstPerson/Blueprints/BP_Player.uasset" SILENT=true
+[2022.07.03-17.42.37:950][563]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Player
+[2022.07.03-17.42.37:951][563]LogSavePackage: Moving '../../../../Projects/CryptRaider/CryptRaider/Saved/BP_Player0C920C2E44F8E48871AFCCB04F45E6FD.tmp' to '../../../../Projects/CryptRaider/CryptRaider/Content/FirstPerson/Blueprints/BP_Player.uasset'
+[2022.07.03-17.42.37:975][563]AssetCheck: New page: Asset Save: BP_Player
+[2022.07.03-17.42.37:975][563]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_Player.BP_Player
+[2022.07.03-17.42.40:864][740]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.03-17.42.40:871][740]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.03-17.42.40:872][740]PIE: New page: PIE session: Dungeon (4 июл. 2022 г., 01:42:40)
+[2022.07.03-17.42.40:872][740]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Dungeon
+[2022.07.03-17.42.40:903][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031093s)
+[2022.07.03-17.42.40:903][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeon.Dungeon to /Game/UEDPIE_0_Dungeon.Dungeon (0.031184s)
+[2022.07.03-17.42.40:903][740]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.03-17.42.40:903][740]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.03-17.42.40:903][740]LogAIModule: Creating AISystem for world Dungeon
+[2022.07.03-17.42.40:904][740]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2022.07.03-17.42.40:984][740]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.07.03-17.42.40:986][740]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.07.03-17.42.40:986][740]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.03-17.42.40:986][740]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.03-17.42.40:986][740]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.03-17.42.40:986][740]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.03-17.42.40:986][740]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.03-17.42.40:986][740]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.03-17.42.40:986][740]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.03-17.42.40:986][740]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.03-17.42.40:986][740]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.03-17.42.40:986][740]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.03-17.42.40:986][740]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.03-17.42.40:989][740]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.03-17.42.41:009][740]LogAudioMixer: Display: Using Audio Hardware Device Динамики (SADES Locust Plus)
+[2022.07.03-17.42.41:009][740]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.03-17.42.41:009][740]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.03-17.42.41:009][740]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.03-17.42.41:010][740]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.07.03-17.42.41:010][740]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=3
+[2022.07.03-17.42.41:011][740]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.07.03-17.42.41:011][740]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.07.03-17.42.41:011][740]LogInit: FAudioDevice initialized.
+[2022.07.03-17.42.41:011][740]LogAudio: Display: Audio Device (ID: 3) registered with world 'Dungeon'.
+[2022.07.03-17.42.41:023][740]LogLoad: Game class is 'CryptRaiderGameMode'
+[2022.07.03-17.42.41:034][740]LogWorld: Bringing World /Game/UEDPIE_0_Dungeon.Dungeon up for play (max tick rate 0) at 2022.07.03-21.42.41
+[2022.07.03-17.42.41:035][740]LogWorld: Bringing up level for play took: 0.011470
+[2022.07.03-17.42.41:037][740]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2022.07.03-17.42.41:039][740]PIE: Server logged in
+[2022.07.03-17.42.41:040][740]PIE: Play in editor total start time 0,169 seconds.
+[2022.07.03-17.42.43:992][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.03-17.42.43:992][898]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Dungeon
+[2022.07.03-17.42.43:993][898]LogWorld: UWorld::CleanupWorld for Dungeon, bSessionEnded=true, bCleanupResources=true
+[2022.07.03-17.42.43:994][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.03-17.42.44:009][898]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.03-17.42.44:019][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.03-17.42.44:062][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.03-17.42.44:062][898]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.07.03-17.42.44:064][898]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.07.03-17.42.44:083][898]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.07.03-17.42.44:139][899]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.07.03-17.42.57:195][249]LogEditorClassViewer: Warning: Class /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile.BP_FirstPersonProjectile_C has parent /Script/TP_FirstPerson.TP_FirstPersonProjectile, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.03-17.42.57:195][249]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.03-17.43.35:777][862]LogSlate: Window 'Create GameMode Blueprint' being destroyed
+[2022.07.03-17.43.35:791][862]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_CryptRaiderGameMode.BP_CryptRaiderGameMode
+[2022.07.03-17.43.35:792][862]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.03-17.43.36:280][862]LogViewport: Scene viewport resized to 1141x869, mode Windowed.
+[2022.07.03-17.43.57:548][812]LogEditorClassViewer: Warning: Class /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile.BP_FirstPersonProjectile_C has parent /Script/TP_FirstPerson.TP_FirstPersonProjectile, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.03-17.43.57:548][812]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.03-17.44.10:317][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_CryptRaiderGameMode" FILE="../../../../Projects/CryptRaider/CryptRaider/Content/BP_CryptRaiderGameMode.uasset" SILENT=true
+[2022.07.03-17.44.10:320][145]LogSavePackage: Moving output files for package: /Game/BP_CryptRaiderGameMode
+[2022.07.03-17.44.10:320][145]LogSavePackage: Moving '../../../../Projects/CryptRaider/CryptRaider/Saved/BP_CryptRaiderGameMode1C0D138F4F99DA3A60BFE4872C0ED156.tmp' to '../../../../Projects/CryptRaider/CryptRaider/Content/BP_CryptRaiderGameMode.uasset'
+[2022.07.03-17.44.10:341][145]AssetCheck: New page: Asset Save: BP_CryptRaiderGameMode
+[2022.07.03-17.44.10:341][145]LogContentValidation: Display: Validating Blueprint /Game/BP_CryptRaiderGameMode.BP_CryptRaiderGameMode
+[2022.07.03-17.44.16:508][761]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.07.03-17.44.16:600][761]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.07.03-17.44.22:283][150]LogSlate: Window 'Project Settings' being destroyed
+[2022.07.03-17.44.27:211][710]LogEditorClassViewer: Warning: Class /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile.BP_FirstPersonProjectile_C has parent /Script/TP_FirstPerson.TP_FirstPersonProjectile, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.03-17.44.27:211][710]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.03-17.44.44:297][566]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.03-17.44.44:303][566]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.03-17.44.44:304][566]PIE: New page: PIE session: Dungeon (4 июл. 2022 г., 01:44:44)
+[2022.07.03-17.44.44:304][566]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Dungeon
+[2022.07.03-17.44.44:339][566]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034881s)
+[2022.07.03-17.44.44:339][566]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeon.Dungeon to /Game/UEDPIE_0_Dungeon.Dungeon (0.034993s)
+[2022.07.03-17.44.44:339][566]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.03-17.44.44:339][566]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.03-17.44.44:340][566]LogAIModule: Creating AISystem for world Dungeon
+[2022.07.03-17.44.44:340][566]LogPlayLevel: PIE: World Init took: (0.001228s)
+[2022.07.03-17.44.44:433][566]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.07.03-17.44.44:436][566]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.07.03-17.44.44:436][566]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.03-17.44.44:436][566]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.03-17.44.44:436][566]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.03-17.44.44:436][566]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.03-17.44.44:436][566]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.03-17.44.44:436][566]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.03-17.44.44:436][566]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.03-17.44.44:436][566]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.03-17.44.44:437][566]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.03-17.44.44:437][566]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.03-17.44.44:437][566]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.03-17.44.44:439][566]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.03-17.44.44:459][566]LogAudioMixer: Display: Using Audio Hardware Device Динамики (SADES Locust Plus)
+[2022.07.03-17.44.44:459][566]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.03-17.44.44:459][566]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.03-17.44.44:459][566]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.03-17.44.44:460][566]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.07.03-17.44.44:460][566]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=4
+[2022.07.03-17.44.44:461][566]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.07.03-17.44.44:461][566]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.07.03-17.44.44:461][566]LogInit: FAudioDevice initialized.
+[2022.07.03-17.44.44:461][566]LogAudio: Display: Audio Device (ID: 4) registered with world 'Dungeon'.
+[2022.07.03-17.44.44:472][566]LogLoad: Game class is 'BP_CryptRaiderGameMode_C'
+[2022.07.03-17.44.44:483][566]LogWorld: Bringing World /Game/UEDPIE_0_Dungeon.Dungeon up for play (max tick rate 0) at 2022.07.03-21.44.44
+[2022.07.03-17.44.44:484][566]LogWorld: Bringing up level for play took: 0.011684
+[2022.07.03-17.44.44:486][566]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2022.07.03-17.44.44:487][566]PIE: Server logged in
+[2022.07.03-17.44.44:488][566]PIE: Play in editor total start time 0,185 seconds.
+[2022.07.03-17.45.14:262][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.03-17.45.14:262][ 99]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Dungeon
+[2022.07.03-17.45.14:262][ 99]LogWorld: UWorld::CleanupWorld for Dungeon, bSessionEnded=true, bCleanupResources=true
+[2022.07.03-17.45.14:264][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.03-17.45.14:289][ 99]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.03-17.45.14:301][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.03-17.45.14:358][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.03-17.45.14:358][ 99]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.07.03-17.45.14:360][ 99]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.07.03-17.45.14:371][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.07.03-17.45.14:421][100]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.07.03-17.46.25:561][378]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.07.03-17.46.26:649][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.07.03-17.46.27:427][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeon" FILE="../../../../Projects/CryptRaider/CryptRaider/Content/Dungeon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.03-17.46.27:486][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.07.03-17.46.27:547][448]LogSavePackage: Moving output files for package: /Game/Dungeon
+[2022.07.03-17.46.27:547][448]LogSavePackage: Moving '../../../../Projects/CryptRaider/CryptRaider/Saved/DungeonF194453A43A9A38E67958396DF871A69.tmp' to '../../../../Projects/CryptRaider/CryptRaider/Content/Dungeon.umap'
+[2022.07.03-17.46.27:575][448]AssetCheck: New page: Asset Save: Dungeon
+[2022.07.03-17.46.27:575][448]LogContentValidation: Display: Validating World /Game/Dungeon.Dungeon
+[2022.07.03-17.46.29:120][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.07.03-17.49.40:213][134]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2022.07.03-17.49.40:213][134]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2022.07.03-17.57.15:946][195]LogSlate: Window 'Message' being destroyed
+[2022.07.03-17.57.15:954][195]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/MedievalDungeon/Materials/M_Tiling_Master.M_Tiling_Master
+(Selecting 'No' will cause all changes to be lost!)
+[2022.07.03-17.57.16:322][195]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 6F5BF5CA358A7379D36E77442F36ACB3CF09C50E), compiling. 
+[2022.07.03-17.57.16:340][195]LogMaterial: Display: Missing cached shadermap for M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: B5EEC7A49CB4AB1A5B4B8EC0FF747BD8C9255153), compiling. 
+[2022.07.03-17.57.16:346][195]LogMaterial: Display: Missing cached shadermap for M_BrickFloor_Clean_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: 89AAD463C486EB65A5976F0C21B85A0E89963130), compiling. 
+[2022.07.03-17.57.16:417][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.07.03-17.57.16:561][195]LogShaderCompilers: Display: ================================================
+[2022.07.03-17.57.16:561][195]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.07.03-17.57.16:561][195]LogShaderCompilers: Display: Total job queries 62, among them cache hits 36 (58.06%)
+[2022.07.03-17.57.16:561][195]LogShaderCompilers: Display: Tracking 6 distinct input hashes that result in 4 distinct outputs (66.67%)
+[2022.07.03-17.57.16:561][195]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.07.03-17.57.16:561][195]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.07.03-17.57.16:561][195]LogShaderCompilers: Display: Shaders Compiled: 19
+[2022.07.03-17.57.16:561][195]LogShaderCompilers: Display: Jobs assigned 12, completed 6 (50.00%)
+[2022.07.03-17.57.16:561][195]LogShaderCompilers: Display: Average time worker was idle: 3016.63 s
+[2022.07.03-17.57.16:561][195]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.14 s
+[2022.07.03-17.57.16:561][195]LogShaderCompilers: Display: Job execution time: average 1.67 s, max 1.98 s
+[2022.07.03-17.57.16:561][195]LogShaderCompilers: Display: Job life time (pending + execution): average 1.71 s, max 1.98
+[2022.07.03-17.57.16:561][195]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.98 s
+[2022.07.03-17.57.16:561][195]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.07.03-17.57.16:561][195]LogShaderCompilers: Display: Average processing rate: 3.03 jobs/sec
+[2022.07.03-17.57.16:561][195]LogShaderCompilers: Display: Effective parallelization: 2.47 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.07.03-17.57.16:561][195]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2022.07.03-17.57.16:561][195]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.97 sec, max 0.97 sec, min 0.97 sec)
+[2022.07.03-17.57.16:561][195]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.93 sec, max 0.93 sec, min 0.93 sec)
+[2022.07.03-17.57.16:561][195]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.82 sec, max 0.87 sec, min 0.78 sec)
+[2022.07.03-17.57.16:561][195]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2022.07.03-17.57.16:561][195]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2022.07.03-17.57.16:561][195]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 39.67% of total time (compiled    2 times, average 0.97 sec, max 0.97 sec, min 0.97 sec)
+[2022.07.03-17.57.16:561][195]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 33.71% of total time (compiled    2 times, average 0.82 sec, max 0.87 sec, min 0.78 sec)
+[2022.07.03-17.57.16:561][195]LogShaderCompilers: Display:                                                 FLumenCardVS - 19.05% of total time (compiled    1 times, average 0.93 sec, max 0.93 sec, min 0.93 sec)
+[2022.07.03-17.57.16:561][195]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.57% of total time (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2022.07.03-17.57.16:561][195]LogShaderCompilers: Display: ================================================
+[2022.07.03-17.57.17:660][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.07.03-17.57.17:731][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.07.03-17.57.20:110][195]LogSlate: Window 'Save Content' being destroyed
