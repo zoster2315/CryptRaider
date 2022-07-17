@@ -33,9 +33,10 @@ private:
 	UPROPERTY(EditAnywhere)
 		float MoveTime = 4;
 
-		bool ShouldMove = false;
+	bool ShouldMove = false;
 
 	FVector OriginalLocation;
 
 	void MoveToOffset(float DeltaTime);
+
 };

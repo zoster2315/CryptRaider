@@ -76,6 +76,8 @@ void UGrabber::Grab()
 		UE_LOG(LogTemp, Warning, TEXT("Try to grab: %s"), *HitResult.GetComponent()->GetName());
 		UPrimitiveComponent* HitComponent = HitResult.GetComponent();
 		HitComponent->WakeAllRigidBodies();
+		HitComponent->SetSimulatePhysics(true);
+		HitComponent->GetOwner()->DetachFromActor(FDetachmentTransformRules::KeepWorldTransform);
 		HitResult.GetActor()->Tags.Add("Grabbed");
 		PhysicsHandle->GrabComponentAtLocationWithRotation(
 			HitResult.GetComponent(),
